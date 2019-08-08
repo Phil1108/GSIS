@@ -1,0 +1,6 @@
+[PATHS]
+TmpDir = tmp/
+
+[DATABASE]
+PSQL_Service = localhost
+PSQL_Port = 5432
