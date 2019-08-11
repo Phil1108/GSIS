@@ -1,0 +1,71 @@
+{
+	"AX_AbgeleiteteHoehenlinie": 0,
+  "AX_Abschnitt": 0,
+  "AX_Ast": 0,
+  "AX_Aussparungsflaeche": 0,
+  "AX_Bahnstrecke": 0,
+  "AX_Baublock": 0,
+  "AX_FlaecheZurZeitUnbestimmbar": 0,
+  "AX_Gebiet_Bundesland": 0,
+  "AX_Gebiet_Kreis": 0,
+  "AX_Gebiet_Nationalstaat": 0,
+  "AX_Gebiet_Regierungsbezirk": 0,
+  "AX_Gebiet_Verwaltungsgemeinschaft": 0,
+  "AX_Gebietsgrenze": 0,
+  "AX_Gemeindeteil": 0,
+  "AX_GeoreferenzierteGebaeudeadresse": 0,
+  "AX_Geripplinie": 0,
+  "AX_Gewaesserachse": 0,
+  "AX_Gewaesserbegrenzung": 0,
+  "AX_Gewaesserstationierungsachse": 0,
+  "AX_Gewann": 0,
+  "AX_Grenzuebergang": 0,
+  "AX_Hafen": 0,
+  "AX_HistorischesFlurstueck": 0,
+  "AX_HistorischesFlurstueckALB": 0,
+  "AX_Hoehenfestpunkt": 0,
+  "AX_Insel": 0,
+  "AX_Kanal": 0,
+  "AX_KleinraeumigerLandschaftsteil": 0,
+  "AX_Kondominium": 0,
+  "AX_Lagefestpunkt": 0,
+  "AX_Landschaft": 0,
+  "AX_Nationalstaat": 0,
+  "AX_Nullpunkt": 0,
+  "AX_Ortslage": 0,
+  "AX_Polder": 0,
+  "AX_PunktkennungVergleichend": 0,
+  "AX_Referenzstationspunkt": 0,
+  "AX_Schleuse": 0,
+  "AX_Schwere": 0,
+  "AX_Schwerefestpunkt": 0,
+  "AX_Sickerstrecke": 0,
+  "AX_Siedlungsflaeche": 0,
+  "AX_Skizze": 0,
+  "AX_Strasse": 0,
+  "AX_Strassenachse": 0,
+  "AX_StrukturiertErfassteGelaendepunkte": 0,
+  "AX_Testgelaende": 0,
+  "AX_Wasserlauf": 0,
+  "AX_WirtschaftlicheEinheit": 0,
+	"AX_Flurstueck": {
+		"attribute": {
+			"objektkoordinaten": 0
+		}
+	},
+	"AX_HistorischesFlurstueckALB": {
+		"attribute": {
+			"objektkoordinaten": 0
+		}
+	},
+	"AX_HistorischesFlurstueckOhneRaumbezug": {
+		"attribute": {
+			"objektkoordinaten": 0
+		}
+	},
+	"AX_HistorischesFlurstueck": {
+		"attribute": {
+			"objektkoordinaten": 0
+		}
+	}
+}

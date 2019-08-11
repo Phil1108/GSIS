@@ -1,0 +1,284 @@
+Code;Name;Modellarten;Status
+0;Ersteinrichtung;alle;Gültig
+3000;Angaben zur Grundbuchfortführung;DLKM;Gültig
+10000;Flurstücksdaten fortführen;DLKM;Veraltet
+10000;"Flurstücksdaten fortführen 
+Hiermit sind die Flurstücksdaten gemeint, die aufgrund der rechtlichen Vorschriften zwischen dem amtlichen Verzeichnis (§ 2 Abs. 2 GBO) und dem Bestandsverzeichnis des Grundbuchs in Übereinstimmung zu halten sind (Fläche, Lage, Wirtschaftsart und besondere Flurstücksgrenze).";DLKM;Gültig
+10100;Veränderungen am Flurstück ohne Änderung der Umfangsgrenzen des Grundstücks;DLKM;Veraltet
+10100;"Veränderungen am Flurstück ohne Änderung der Umfangsgrenzen des Grundstücks 
+Mit dieser Fortführung werden Flurstücke katastertechnisch zerlegt und / oder verschmolzen ohne das Grundstücke im Rechtssinne in ihrer Form verändert werden. Die Fortführung beinhaltet ein (Zerlegung) oder mehrere alte (Verschmelzung) Flurstücke sowie mehrere oder ein neues Flurstück(e).";DLKM;Gültig
+10101;Zerlegung oder Sonderung;DLKM;Gültig
+10102;Verschmelzung;DLKM;Gültig
+10103;Zerlegung und Verschmelzung;DLKM;Gültig
+10104;Flurstückszerlegung mit Eigentumsübergang nach Straßengesetzen;DLKM;Gültig
+10105;"Zerlegung 
+Mit dieser Fortführung werden Flurstücke infolge einer Vermessung, Sonderung oder Rückführung einer Verschmelzung zerlegt.";DLKM;Gültig
+10107;"Sonderung 
+Mit dieser Fortführung werden Flurstücke infolge einer Sonderung (Liegenschaftsvermessung mit vorgezogener Flurstücksbestimmung) zerlegt.";DLKM;Gültig
+10199;Verschmelzung von Flurstücken auf unterschiedlichen Beständen/Buchungsstellen;DLKM;Gültig
+10200;Veränderung am Flurstück mit Änderung der Umfangsgrenzen des Grundstücks;DLKM;Veraltet
+10200;"Veränderung am Flurstück mit Änderung der Umfangsgrenzen des Grundstücks 
+Mit dieser Fortführung werden Veränderungen am Flurstück aufgrund rechtlicher Vorschriften (z.B. Wasserrecht, Straßenrecht) durchgeführt, die eine Änderung in der Form des Grundstücks zur Folge haben. Die Fortführung beinhaltet ein oder mehrere alte Flurstücke sowie ein oder mehrere neue Flurstücke.";DLKM;Gültig
+10201;Veränderung aufgrund der Vorschriften des Straßenrechts;DLKM;Gültig
+10202;Veränderung aufgrund der Vorschriften des Wasserrechts;DLKM;Gültig
+10203;"Veränderung am Flurstück mit Änderung der Umfangsgrenzen 
+Mit dieser Fortführung werden Veränderungen am Flurstück infolge wasserrechtlicher Bestimmungen, rechtskräftiger Urteile und Vergleiche über Grenzstreitigkeiten sowie von Grenzbestimmungen auf der Grundlage einer Vereinbarung der beteiligten Grundstückseigentümer durchgeführt, die eine Änderung in der Form des Flurstücks zur Folge haben.";DLKM;Gültig
+10205;Veränderung aufgrund Berichtigung eines Aufnahmefehlers;DLKM;Gültig
+10206;Veränderung aufgrund gerichtlicher Entscheidung;DLKM;Gültig
+10207;Veränderung aufgrund Berichtigung eines Grenzbestimmungsfehlers;DLKM;Gültig
+10300;Veränderung der Bezeichnung oder der Zugehörigkeit des Flurstücks;DLKM;Veraltet
+10300;"Veränderung der Bezeichnung oder der Zugehörigkeit des Flurstücks 
+Mit dieser Fortführung werden Veränderungen am Flurstück aufgrund von Umnumerierungen, Zuordnungen zu anderen Fluren oder infolge von Umgemarkungen sowie Umgemeindungen durchgeführt. Die Fortführung beinhaltet ein oder mehrere alte Flurstücke sowie ein oder mehrere neue Flurstücke.";DLKM;Gültig
+10301;Veränderung der Flurstücksbezeichnung;DLKM;Gültig
+10302;Veränderung der Gemarkungszugehörigkeit (1);DLKM;Veraltet
+10302;Veränderung der Gemarkungszugehörigkeit;DLKM;Gültig
+10303;Veränderung der Gemeindezugehörigkeit ganzer Gemarkungen;DLKM;Gültig
+10304;Übernahme von Flurstücken eines anderen Katasteramtes;DLKM;Veraltet
+10304;Übernahme von Flurstücken einer anderen Katasterbehörde;DLKM;Gültig
+10305;Veränderung der Flurzugehörigkeit;DLKM;Gültig
+10306;Abgabe von Flurstücken an ein anderes Katasteramt;DLKM;Veraltet
+10306;Abgabe von Flurstücken an eine andere Katasterbehörde;DLKM;Gültig
+10307;Eintragung des Flurstückes;DLKM;Gültig
+10308;Löschen des Flurstückes;DLKM;Gültig
+10309;Veränderung der Gemeindezugehörigkeit einzelner Flurstücke;DLKM;Gültig
+10310;Veränderung der Gemeindezugehörigkeit;DLKM;Gültig
+10312;"Veränderung der Flurstücksnummer 
+Mit dieser Fortführung werden Flurstücksnummern berichtigt.";DLKM;Gültig
+10316;Flurstücksbestimmung gemäß § 12 Abs.2 Satz 2 VermGeoG LSA;DLKM;Veraltet
+10316;Flurstücksbestimmung gemäß § 12 Abs. 2 Satz 2 VermGeoG LSA;DLKM;Gültig
+10317;Gebäudeeinmessung nach § 14 Abs. 2 Satz 2 VermGeoG LSA;DLKM;Gültig
+10400;Veränderung der Beschreibung des Flurstücks;DLKM;Veraltet
+10400;"Veränderung der Beschreibung des Flurstücks 
+Mit dieser Fortführung wird die Beschreibung des Flurstücks für Besondere Flurstücksgrenze, Lage und Nutzungsart verändert. Die Fortführung beinhaltet ein oder mehrere Flurstücke.";DLKM;Gültig
+10401;Veränderung der besonderen Flurstücksgrenze;DLKM;Gültig
+10402;Veränderung der Lage;DLKM;Gültig
+10403;Veränderung der tatsächlichen Nutzung mit Änderung der Wirtschaftsart;DLKM;Gültig
+10404;Veränderung des Anliegervermerks;DLKM;Gültig
+10405;"Veränderung der tatsächlichen Nutzung ohne Änderung der Wirtschaftsart 
+Mit dieser Fortführung wird die tatsächliche Nutzung ohne Änderung der Wirtschaftsart verändert.";DLKM;Gültig
+10500;Berichtigung der Flurstücksangaben;DLKM;Veraltet
+10500;"Berichtigung der Flurstücksangaben 
+Mit dieser Fortführung werden katasterliche Berichtigungen zu den Flurstücksangaben mit Änderung des Flurstückskennzeichens durchgeführt, die im Bestandsverzeichnis des Grundbuchs nachgewiesen werden. Die Fortführung beinhaltet je Fortführungsanlass ein Flurstück.";DLKM;Gültig
+10501;Berichtigung der Flächenangabe;DLKM;Gültig
+10502;Berichtigung eines Zeichenfehlers;DLKM;Gültig
+10503;Berichtigung eines Katastrierungsfehlers;DLKM;Gültig
+10511;Berichtigung der Flächenangabe mit Veränderung des Flurstückskennzeichens;DLKM;Gültig
+10600;"Bodenordnungsmaßnahmen 
+Mit dieser Fortführung werden Veränderungen am Flurstück aufgrund rechtlicher Vorschriften (z.B. Flurbereinigungsgesetz) durchgeführt, die eine Änderung in der Form des Grundstücks zur Folge haben. Es werden die Objektinformationen von Flurstücken zur Verfügung gestellt, die bei der Übernahme der Bodenordnungsmaßnahme ins Grundbuch benötigt werden. Diese Fortführung ist nicht die Rechtsgrundlage zur Berichtigung des Grundbuchs. Übermittelt werden: • Flurstücksinformationen zur Fortführung des Bestandsverzeichnisses und optional • Daten zur Fortführung der Abteilungen I bis III.";DLKM;Veraltet
+10600;"Bodenordnungsmaßnahmen 
+Mit dieser Fortführung werden Veränderungen am Flurstück aufgrund rechtlicher Vorschriften (z.B. Flurbereinigungsgesetz) durchgeführt, die eine Änderung in der Form des Grundstücks zur Folge haben. Es werden die Objektinformationen von Flurstücken zur Verfügung gestellt, die bei der Übernahme der Bodenordnungsmaßnahme ins Grundbuch benötigt werden. Diese Fortführung ist nicht die Rechtsgrundlage zur Berichtigung des Grundbuchs. Übermittelt werden: • Flurstücksinformationen zur Fortführung des Bestandsverzeichnisses und optional • Daten zur Fortführung der Abteilungen I bis III.";DLKM;Gültig
+10601;Verfahren nach dem Flurbereinigungsgesetz;DLKM;Gültig
+10602;Verfahren nach dem Baugesetzbuch;DLKM;Gültig
+10611;Flurbereinigung;DLKM;Gültig
+10612;Flurbereinigung-freiwilliger Landtausch;DLKM;Veraltet
+10612;Flurbereinigung - freiwilliger Landtausch;DLKM;Gültig
+10613;Änderung auf Grund des Landwirtschaftsanpassungsgesetzes;DLKM;Veraltet
+10613;Änderung aufgrund des Landwirtschaftsanpassungsgesetzes;DLKM;Gültig
+10614;Änderung auf Grund des Eisenbahnneuordnungsgesetzes;DLKM;Veraltet
+10614;Änderung aufgrund des Eisenbahnneuordnungsgesetzes;DLKM;Gültig
+10615;"Übernahme von wichtigen Terminen im Ablauf eines Bodenordnungsverfahrens 
+Dient zur Mitteilung des Zeitpunkts der Rechtskraft usw.";DLKM;Gültig
+10616;Vermessung der Verfahrensgrenze des Flurbereinigungsgebietes;DLKM;Gültig
+10619;Übernahme von Flurbereinigungsergebnissen;DLKM;Gültig
+10621;Umlegung;DLKM;Gültig
+10622;Umlegung nach § 76 BauGB;DLKM;Gültig
+10623;Vereinfachte Umlegung;DLKM;Gültig
+10700;Katastererneuerung;DLKM;Gültig
+10701;Katastererneuerung - vereinfachte Neuvermessung;DLKM;Gültig
+10702;"Erneuerung der Lagekoordinaten 
+Anlassart für Neubestimmung durch Neuberechnung mit vorhandenen Messwerten. Teile der Liegenschaftskarte, für die zwar geschlossen qualifizierte Katastervermessungen und neubestimmte AP vorliegen, für die aber Lagekoordinaten noch nicht oder nur unzureichend bestimmt worden sind, werden mit den vorhandenen Vermessungsergebnissen Lagekoordinaten im System des Festpunktfeldes berechnet und datenverarbeitungsgerecht gespeichert.";DLKM;Gültig
+10703;Veränderung aufgrund der Qualitätsverbesserung;DLKM;Gültig
+10704;Qualitätssicherung und Datenpflege;DLKM;Gültig
+10801;Zuschreibung eines Flurstückes (Gebietsreform);DLKM;Gültig
+10802;Abschreibung eines Flurstückes (Gebietsreform);DLKM;Gültig
+10900;Grenzfeststellung;DLKM;Gültig
+10901;Grenzvermessung;DLKM;Gültig
+10902;Grenzwiederherstellung;DLKM;Gültig
+10903;Grenzbestimmung;DLKM;Gültig
+10904;"Grenzabmarkung 
+Anlassart für die Grenzabmarkung für die Behebung von Abmarkungsmängeln.";DLKM;Gültig
+20000;Verzeichnisse außerhalb des Grundbuches fortführen;DLKM;Veraltet
+20000;"Verzeichnisse außerhalb des Grundbuches fortführen 
+Hiermit sind die Buchungen von noch nicht gebuchten sowie buchungsfreien Flurstücken sowie sonstige Angaben gemeint, die aufgrund von Vereinbarungen in besonderen Verzeichnissen des Grundbuchs geführt werden.";DLKM;Gültig
+20100;Katasterliche Buchungsdaten fortführen;DLKM;Gültig
+20101;Katasterliche Buchung eines noch nicht im Grundbuch gebuchten Grundstücks oder Rechts (Erwerber- oder Pseudoblatt) (2);DLKM;Veraltet
+20101;Katasterliche Buchung eines noch nicht im Grundbuch gebuchten Grundstücks oder Rechts (Erwerber- oder Pseudoblatt);DLKM;Gültig
+20102;Katasterliche Buchung eines buchungsfreien Grundstücks;DLKM;Gültig
+20200;Namensnummer von katasterlichen Buchungsstellen verändern;DLKM;Gültig
+20201;Katasterliche Namensnummer und Rechtsgemeinschaft fortführen;DLKM;Gültig
+20300;Katasterliche Personendaten fortführen;DLKM;Veraltet
+20300;"Katasterliche Personendaten fortführen 
+Mit dieser Fortführung werden im Grundbuch noch nicht gebuchte sowie buchungsfreie Flurstücke im Liegenschaftskataster gebucht (Katasterblatt, Erwerberblatt, Pseudoblatt). Die Fortführung beinhaltet die Buchung eines Flurstücks auf einer Buchungsstelle.";DLKM;Gültig
+20301;Veränderung der Personendaten;DLKM;Gültig
+20302;Veränderung der Personengruppe;DLKM;Gültig
+20303;Veränderung der Anschrift aufgrund katasterlicher Erhebung (2);DLKM;Veraltet
+20303;Veränderung der Anschrift aufgrund katasterlicher Erhebung;DLKM;Gültig
+20304;Veränderung der Verwaltung;DLKM;Gültig
+20305;"Veränderung der Vertretung 
+Mit dieser Fortführung werden die Daten zur Vertretung aufgrund katasterlicher Erhebungen verändert.";DLKM;Gültig
+30000;Grundbuchblattbezeichnung ändern;DLKM;Gültig
+30100;Umnummerierung (infolge Zuständigkeitsänderungen am Grundbuch);DLKM;Gültig
+40000;Beschreibung der Buchungsstelle ändern;DLKM;Gültig
+40100;Änderungen am Wohnungseigentum;DLKM;Gültig
+40200;Änderungen am Wohnungserbbaurecht;DLKM;Gültig
+40300;Änderungen am Wohnungsuntererbbaurecht;DLKM;Veraltet
+40300;Änderungen am Wohnungsuntererbbaurecht;DLKM;Gültig
+40400;Buchung § 3 Abs.4 ff GBO ändern;DLKM;Veraltet
+40400;Buchung § 3 Abs. 4 ff GBO ändern;DLKM;Gültig
+40500;Änderungen an den Beziehungen zwischen den Buchungsstellen;DLKM;Gültig
+40600;Änderungen in der Ergänzung, Beschreibung sowie der Bemerkung zu Buchungen;DLKM;Gültig
+50000;Angaben zu Eigentümer oder Erbbauberechtigten verändern;DLKM;Gültig
+50100;Eigentumsänderung;DLKM;Gültig
+50101;Kompletter Eigentumswechsel im Grundbuchblatt;DLKM;Gültig
+50102;Teilweiser Eigentumswechsel im Grundbuchblatt;DLKM;Gültig
+50200;Berichtigung aufgrund Erbnachweis;DLKM;Gültig
+50300;Berichtigung aufgrund Erwerbsvorgängen außerhalb des Grundbuchs;DLKM;Gültig
+50400;Namensänderung;DLKM;Gültig
+60000;Grundstücke buchen;DLKM;Gültig
+60100;Abschreibung;DLKM;Gültig
+60101;Abschreibung auf neues Buchungsblatt;DLKM;Gültig
+60102;Abschreibung auf bestehendes Buchungsblatt;DLKM;Gültig
+60200;Teilung;DLKM;Gültig
+60201;Buchung der neuen Grundstücke in einem bestehenden Buchungsblatt;DLKM;Gültig
+60400;Vereinigung (§ 890 I BGB, § 5 GBO);DLKM;Veraltet
+60400;Vereinigung (§ 890 Abs. 1 BGB, § 5 GBO);DLKM;Gültig
+60500;Bestandteilszuschreibung (§ 890 II BGB, § 6 GBO);DLKM;Veraltet
+60500;Bestandteilszuschreibung (§ 890 Abs. 2 BGB, § 6 GBO);DLKM;Gültig
+60600;Vollziehung einer Verschmelzung;DLKM;Gültig
+60700;Buchung aufgrund Veränderung der Grundstücksbezeichnung oder der Größe (Spalten 3 + 4 des BV);DLKM;Gültig
+60800;Buchung nach § 3 Abs.4 GBO aufheben;DLKM;Veraltet
+60800;Buchung nach § 3 Abs. 4 GBO aufheben;DLKM;Gültig
+60801;Buchung des Grundstücks auf ein neues Buchungsblatt (1);DLKM;Gültig
+60802;Buchung des Grundstücks auf ein bestehendes Buchungsblatt der Miteigentümer;DLKM;Gültig
+60900;Aufhebung eines Wohnungseigentums;DLKM;Gültig
+60901;Buchung des Grundstücks auf ein neues Buchungsblatt (2);DLKM;Gültig
+60902;Buchung des Grundstücks auf ein bestehendes Buchungsblatt;DLKM;Gültig
+61000;Umschreibung des Grundbuchs (§§ 28 ff, 68 GBV);DLKM;Gültig
+61100;Neufassung des Grundbuchs (§§ 33, 69 GBV);DLKM;Gültig
+61200;Erstbuchung eines Grundstücks;DLKM;Gültig
+61300;Ausbuchung eines Grundstücks nach § 3 (3) GBO;DLKM;Veraltet
+61300;Ausbuchung eines Grundstücks nach § 3 Abs. 3 GBO;DLKM;Gültig
+61400;Aufhebung von Anteilen am ungetrennten Hofraum;DLKM;Gültig
+62000;Grundbuchblatt schließen;DLKM;Gültig
+70000;Rechte buchen;DLKM;Gültig
+70100;Erbbaurecht anlegen;DLKM;Gültig
+70200;Erbbaurecht aufheben;DLKM;Gültig
+70300;Herrschvermerk buchen;DLKM;Gültig
+70400;Herrschvermerk aufheben;DLKM;Gültig
+70500;Untererbbaurecht anlegen;DLKM;Gültig
+70600;Untererbbaurecht aufheben;DLKM;Gültig
+70700;Sonstige Rechte anlegen;DLKM;Gültig
+70800;Sonstige Rechte aufheben;DLKM;Gültig
+70900;Wohnungserbbaurecht aufheben;DLKM;Gültig
+71000;Wohnungsuntererbbaurecht aufheben;DLKM;Gültig
+71100;Teilung Herrschvermerk aufheben;DLKM;Gültig
+71200;Teilung sonstiges Recht aufheben;DLKM;Gültig
+80000;Anteile buchen;DLKM;Gültig
+80100;Buchung nach § 3 Abs.4 GBO;DLKM;Veraltet
+80100;Buchung nach § 3 Abs. 4 GBO;DLKM;Gültig
+80200;Anlegen von Wohnungseigentum;DLKM;Gültig
+80300;Anlegen von Wohnungserbbaurecht;DLKM;Gültig
+80400;Anlegen von Wohnungsuntererbbaurecht;DLKM;Gültig
+80500;Teilung eines Herrschvermerks;DLKM;Gültig
+80600;Teilung eines sonstigen Rechts;DLKM;Gültig
+80650;Auflösung ungetrennter Hofräume;DLKM;Gültig
+80700;Teilung am ungetrennten Hofraum aufheben;DLKM;Gültig
+80800;Teilung einer Buchung § 3 Abs. 4 GBO nach Wohnungseigentumsgesetz;DLKM;Gültig
+80900;Teilung eines Anteils am ungetrennten Hofraum nach Wohnungseigentumsgesetz;DLKM;Gültig
+90000;Ändern in Verzeichnissen ohne Grundbucheintragung;DLKM;Gültig
+90100;Verwaltung eintragen oder ändern;DLKM;Gültig
+90200;Personengruppe eintragen oder ändern;DLKM;Gültig
+90300;Änderung der Anschrift;DLKM;Gültig
+90400;Änderung der Personendaten;DLKM;Gültig
+90500;Entstehung eines Festpunkts (erstmalige Aufnahme in AFIS);DFGM;Gültig
+90510;Änderung von Koordinaten, Höhe und/oder Schwerewert eines Festpunkts;DFGM;Gültig
+90520;Veränderung der Vermarkung und/oder der beschreibenden Angaben eines Festpunkts;DFGM;Gültig
+90530;Zerstörung der Vermarkung eines Festpunkts;DFGM;Gültig
+90540;Untergang eines Festpunktes;DFGM;Gültig
+1000;Grundaktualisierung;"Basis-DLM
+DTK10
+DTK25
+DLM50
+DLM250
+DLM1000";Gültig
+100000;Veränderung der Angaben zu den Nutzerprofilen;DLKM;Gültig
+2000;Spitzenaktualisierung;"Basis-DLM
+DTK10
+DTK25
+DLM50
+DLM250
+DLM1000";Gültig
+200000;Veränderung von Gebäudedaten;DLKM;Gültig
+200100;Eintragen eines Gebäudes;DLKM;Gültig
+200200;Veränderung der Gebäudeeigenschaften;DLKM;Gültig
+200300;Löschen eines Gebäudes;DLKM;Gültig
+3000;Modellgeneralisierung;"DLM50
+DLM250
+DLM1000";Gültig
+300000;Sonstige Daten fortführen;"DLKM
+Basis-DLM
+DLM50
+DLM250
+DLM1000
+DHM";Gültig
+300100;Veränderungen der Angaben zum Netzpunkt;DLKM;Gültig
+300200;Veränderung der Angaben zum Objektartenbereich 'Bauwerke, Einrichtungen und sonstigen Angaben';DLKM;Veraltet
+300200;Veränderung von Bauwerken, Einrichtungen und sonstigen Angaben;DLKM;Gültig
+300300;Veränderung der Angaben zum Objektartenbereich 'Tatsächlichen Nutzung';DLKM;Veraltet
+300300;Veränderung der tatsächlichen Nutzung;DLKM;Gültig
+300400;Veränderung der Angaben zum Objektartenbereich 'Gesetzliche Festlegungen, Gebietseinheiten, Kataloge';DLKM;Veraltet
+300400;Veränderung von gesetzlichen Festlegungen, Gebietseinheiten, Katalogen;DLKM;Gültig
+300410;Veränderung der öffentlich-rechtlichen und sonstigen Festsetzungen;DLKM;Gültig
+300420;Veränderung der Bodenschätzung;DLKM;Gültig
+300421;"Erfassung der Bodenschätzung 
+Mit dieser Fortführung werden die Angaben zur Bodenschätzung aus der Urschätzung erfasst.";DLKM;Gültig
+300430;Veränderung der Bewertung;DLKM;Gültig
+300440;Veränderung der Gebietseinheiten;DLKM;Gültig
+300500;Veränderung der Geometrie auf Grund der Homogenisierung;DLKM;Veraltet
+300500;Veränderung aufgrund der Kartenanpassung;DLKM;Gültig
+300501;"Veränderung aufgrund der Homogenisierung 
+Bei der Fortführung mit Geometriebezug wird durch die Homogenisierung die Punkt-Lagegenauigkeit der raumbezogenen Bestandsdaten verbessert.";DLKM;Gültig
+300600;Veränderung der Reservierung von Fachkennzeichen;DLKM;Gültig
+300700;"Veränderung von Katalogeinträgen 
+Veränderung der OA der abstrakten Oberklasse ""Katalogeintrag""";DLKM;Gültig
+300800;Veränderung von Metadaten;DLKM;Gültig
+300900;Veränderung der Geometrie durch Implizitbehandlung;"DLKM
+DFGM
+Basis-DLM";Gültig
+4000;Automatische Kartographische Generalisierung;"DTK10
+DTK25
+DTK50
+DTK100
+DTK250
+DTK1000";Veraltet
+4000;Automatische Kartographische Generalisierung ohne Konflikt;"DTK10
+DTK25
+DTK50
+DTK100
+DTK250
+DTK1000";Gültig
+4100;Automatische Kartographische Generalisierung mit Konflikt;"DTK10
+DTK25
+DTK50
+DTK100
+DTK250
+DTK1000";Gültig
+5000;Interaktive Kartographische Generalisierung;"Basis-DLM
+DTK10
+DTK25
+DTK50
+DTK100
+DTK250
+DTK1000";Gültig
+6000;Veränderung an der Landesgrenze und des Gebietes;"DLKM
+Basis-DLM
+DTK10
+DTK25
+DLM50
+DTK50
+DTK100
+DLM250
+DTK250
+DLM1000
+DTK1000";Gültig
+9999;Sonstiges;DFGM;Gültig

@@ -1,0 +1,22 @@
+{
+	"AX_Flurstueck": {
+		"attribute": {
+			"objektkoordinaten": 0
+		}
+	},
+	"AX_HistorischesFlurstueckALB": {
+		"attribute": {
+			"objektkoordinaten": 0
+		}
+	},
+	"AX_HistorischesFlurstueckOhneRaumbezug": {
+		"attribute": {
+			"objektkoordinaten": 0
+		}
+	},
+	"AX_HistorischesFlurstueck": {
+		"attribute": {
+			"objektkoordinaten": 0
+		}
+	}
+}

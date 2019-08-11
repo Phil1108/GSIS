@@ -1,0 +1,14 @@
+{
+	"AA_Modellart": {
+		"attribute": {
+			"sonstigesModell": 0
+		}
+	},
+	"AA_Objekt": {
+		"beziehungen": {
+			"istTeilVon": 0
+		}
+	},
+	"AX_Netzknoten": 0,
+	"AX_Bauwerksfunktion_Leitung": 0
+}

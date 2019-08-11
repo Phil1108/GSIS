@@ -13,9 +13,6 @@ German Satellite Image Segmentation
   <a href="https://github.com/Phil1108/GSIS/Images/Example_Hybrid.png">
     <img src="images/Example_Hybrid.png" alt="Logo" width="150" height="150">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
   <p align="center">
     German Satellite Image Segmentation - The smart way to get Training Data for aerial Image Classification
     <br />
