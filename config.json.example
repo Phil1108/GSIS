@@ -1,6 +1,11 @@
 [PATHS]
 TmpDir = tmp/
+DownloadDir = download/
+SatImg_Dir = 
 
 [DATABASE]
-PSQL_Service = localhost
+PSQL_Service = 
 PSQL_Port = 5432
+PSQL_Password = 
+PSQL_User = 
+PSQL_DBName = 

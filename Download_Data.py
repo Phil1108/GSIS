@@ -44,10 +44,11 @@ def download(url, filename):
     """
     if os.path.exists(filename): 
         print('{} already downloaded'.format(filename))
+        return None
     else: 
-        with open(file_name, "wb") as f:
-            print("Downloading %s" % file_name)
-            response = requests.get((base_url +  url_add), stream=True)
+        with open(filename, "wb") as f:
+            print("Downloading %s" % filename)
+            response = requests.get(url, stream=True)
             total_length = response.headers.get('content-length')
     
             #if total_length is None: # no content length header
@@ -72,6 +73,10 @@ def download_alkis():
     """
     base_url = "https://www.opengeodata.nrw.de/produkte/geobasis/lika/alkis_sek/bda_oe/"
     
+    path_name = (config['PATHS']['DownloadDir'] + 'alkis_zip')
+    if not os.path.exists(path_name): 
+        os.mkdir(path_name)
+    
     with open('index_alkis.json', 'r') as alkis_json:
         get = json.loads(alkis_json.read())
     
@@ -86,6 +91,35 @@ def download_alkis():
     
     return True
 
+
+def download_DOP(): 
+    """
+    Download and extract Aerial Images from NRW server
+    """
+    base_url = "https://www.opengeodata.nrw.de/produkte/geobasis/dop/dop/"
+    
+    path_name = (config['PATHS']['DownloadDir'] + 'DOP')
+    if not os.path.exists(path_name): 
+        os.mkdir(path_name)
+    with open('index_DOP.json', 'r') as alkis_json:
+        get = json.loads(alkis_json.read())
+    nr_files = len(get['datasets'][0]['files'])
+    
+    for i in tqdm(range(0, nr_files)):
+        url_add = get['datasets'][0]['files'][i]['name']
+        
+        file_name = config['PATHS']['DownloadDir'] + 'DOP/' + url_add
+        
+        download((base_url +  url_add), file_name)
+        
+        extract_path = file_name[:-4] + '/'
+        with ZipFile(file_name) as zf:
+            zf.extractall(extract_path)
+        
+        #os.remove(file_name) #Remove Zip File
+        
+    return True
+    
 def file_generator(path):
     """
     Generates file paths
@@ -151,6 +185,8 @@ def extract2PGIS(key, zip_file, extract_path):
     return None
         
 if __name__ == '__main__': 
+    """
+    #Comment Out for ALKIS Diwbkiad
     type_dict = {'ax_gebaeude': '31001'
                  }
     
@@ -162,9 +198,6 @@ if __name__ == '__main__':
     #download_alkis()
 
     gen = file_generator(config['PATHS']['DownloadDir'])
-    #for zip_file in gen: 
-    #    if 'Bonn' in zip_file:
-    #        extract2PGIS(key, zip_file, extract_path)
     
     ray.init()
     pids = []
@@ -174,6 +207,13 @@ if __name__ == '__main__':
     for worker in tqdm(pids): 
         value = ray.get(worker)
     ray.shutdown()
+    """
+    
+    download_DOP() #Download all aerial Images
+    
+    
+    
+    
     
     
     

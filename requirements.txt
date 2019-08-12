@@ -1,2 +1,10 @@
 osgeo==2.4.1
 numpy==1.16.2
+beautifulsoup4==4.7.1
+ray=0.7.0
+pandas==0.24.2
+tqdm==4.32.2
+googletrans==2.4.0
+psycopg2==2.8.2
+matplotlib==3.0.3
+python-opencv==4.1.0

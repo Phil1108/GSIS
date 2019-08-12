@@ -163,7 +163,7 @@ def get_object_count(boundaries):
             #print(res[0][0])
     
     print('Objects in Image {}'.format(res[0][0]))
-    if res[0][0] == 0:
+    if res[0][0] < 100:
         return False
     else :
         return True
@@ -177,8 +177,9 @@ def main(img_path):
         print('Creating Rasterize Image')
         myarray = create_rasterize(img_path, corner_points, resolution, False)
     else: 
-        print('Image contains no Objects')
-
+        print('Image contains less than 25 Objects. Removing Image now ...')
+        os.remove(img_path)
+        
 
 
 if __name__ == '__main__': 
@@ -195,13 +196,15 @@ if __name__ == '__main__':
         
     ray.init(num_cpus=4)
     pids = []
-    for i in glob.glob((config['PATHS']['SatImg_Dir'] + '*.jp2')): 
-        pids.append(main.remote(i))
-        
+    img_path = config['PATHS']['DownloadDir'] +  'DOP/'
+    for folder in next(os.walk(img_path))[1]: #Iterate over Folders
+        for image in glob.glob((img_path + folder + '/*.jp2')): 
+            if not os.path.isfile("{}_rasterize.png".format(image)): #Skip already created Rasters
+                pids.append(main.remote(image))
+       
     for worker in tqdm(pids): 
         value = ray.get(worker)
     ray.shutdown()
-        
       
     """    
     corner_points, resolution = get_aerial_image(i, False)
